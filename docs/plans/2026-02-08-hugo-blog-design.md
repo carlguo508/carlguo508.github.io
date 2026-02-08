@@ -10,7 +10,6 @@ Personal website/blog using Hugo and GitHub Pages.
 ## Content Structure
 - `content/posts/tech/` - technical posts
 - `content/posts/personal/` - life/thoughts
-- `content/posts/projects/` - project write-ups
 - Tags for cross-cutting topics
 
 ## Features
