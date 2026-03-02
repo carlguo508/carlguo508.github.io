@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2026-02-08
 draft: false
-tags: ["hugo", "blog"]
+tags: ["blog"]
 summary: "My first blog post"
 ---
 
